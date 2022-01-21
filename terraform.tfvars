@@ -1,2 +1,2 @@
-region = "eu-west-2"
-credentials-profile = "terraform-iac"
+region = "eu-west-1"
+credentials-profile = "satish-devops-upskill"
